@@ -13,4 +13,6 @@ pip install -r requirements.txt
 * **Andrew Sliva**
 * Ben Levine 
 * Samuel Butler 
+The designated furry in every discord group.
+
 * Zachary Garza 
